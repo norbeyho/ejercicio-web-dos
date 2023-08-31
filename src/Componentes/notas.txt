@@ -1,0 +1,8 @@
+git init - inicia un repo vacio en el proyecto
+git add. - Agrega todos los archivos del proyecto al seguimiento de la version
+git commit -m "comentario" - Esto me sirve para crear un punto de restauración
+git remote add origin "url..." - 
+git push -u origin master
+Luego de cualquier cambio ejecutar el comando git add.
+Luego git commit -m "Se agrega un color de fondo..."
+Luego git push
